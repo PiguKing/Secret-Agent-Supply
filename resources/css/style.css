@@ -150,16 +150,19 @@
 }
 
 #location_box, #hours_box {
+  border: none;
   width: 35%;
   background-color: black;
 }
 
 #location, #hours{
+  border: none;
   color: white;
   padding: 1rem 2rem;
 }
 
 #location_text ,#hours_text{
+  border: none;
   background-color: white;
   padding-top: 1rem;
 }
